@@ -29,7 +29,7 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 
 ## Cleaning end of service, and payment for final bills
 
-![](alfasi_check.jpg)
+![](alfasi_check_redacted.jpg)
 
 ![](alfasi_whatsapp.jpg)
 
@@ -50,10 +50,6 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 ## Image 1 from Yaron Kanter upon closing of previous VAAD bank account:
 
 ![Image from Yaron Kanter upon closing of previous VAAD bank account:](PHOTO-2021-03-19-18-09-17.jpg)
-
-## Image 2 from Yaron Kanter upon closing of previous VAAD bank account:
-
-![Image from Yaron Kanter upon closing of previous VAAD bank account:](prev_account_close.png)
 
 ## Image from Adam Yaron regarding payments for 2020:
 
