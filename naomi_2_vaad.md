@@ -47,7 +47,7 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 
 # Documents from previous VAAD
 
-## Image 1 from Yaron Kanter upon closing of previous VAAD bank account:
+## Image from Yaron Kanter upon closing of previous VAAD bank account:
 
 ![Image from Yaron Kanter upon closing of previous VAAD bank account:](PHOTO-2021-03-19-18-09-17.jpg)
 
