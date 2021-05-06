@@ -22,10 +22,16 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | April 28, 2021 | -141 | 4852.39 | electricity bill (4 months) |
 | May 2, 2021 | +1200 | 6052.39 | deposit by Maya+Oded Strauss|
 | May 3, 2021 | -1800 | 4252.39 | cleaning payment Jan-Apr 2021 |
-
+| May 5, 2021 | +1200 | 5452.39 | deposit by Arik Guez |
+| May 5, 2021 | +200 | 5652.39 | deposit  by Dalia Fridman, check 1 of 6 |
+| May 6, 2021 | -320 | 5332.39 | pest-control/exterminator visit |
 
 
 # Documents
+
+## Pest Control May 6th 2021
+
+![](pest-control-May-2021.jpg)
 
 ## Cleaning end of service, and payment for final bills
 
@@ -50,7 +56,3 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 ## Image from Yaron Kanter upon closing of previous VAAD bank account:
 
 ![Image from Yaron Kanter upon closing of previous VAAD bank account:](PHOTO-2021-03-19-18-09-17.jpg)
-
-## Image from Adam Yaron regarding payments for 2020:
-
-![Image from Adam Yaron regarding payments for 2020 :](previous_money_management.png)
