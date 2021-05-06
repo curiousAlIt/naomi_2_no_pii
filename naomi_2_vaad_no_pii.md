@@ -4,9 +4,10 @@ We will manage the building finances using this page, which is publicly accessib
 
 # Notices
 
-### May 2, 2021
+### May 6, 2021
 
-Collected money from everybody but two apartments.
+* Pest control was here today.
+* Thanks Yaron+Amit for removing junk from the building basement.
 
 # Balance
 
