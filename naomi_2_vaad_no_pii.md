@@ -6,6 +6,9 @@ We will manage the building finances using this page, which is publicly accessib
 
 ### May 6, 2021
 
+* Thank you for everybody who paid their VAAD share for building maintenance
+
+
 * Pest control was here today.
 * Thanks Yaron+Amit for removing junk from the building basement.
 
