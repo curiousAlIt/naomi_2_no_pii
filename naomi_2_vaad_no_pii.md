@@ -20,14 +20,14 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 |-------|--------|-------|-------|
 | April 2, 2021 | +2293.39 | 2293.39 | transfer from previous VAAD Adam Yaron|
 | April 7, 2021 | -700 | 1593.39 | paid gardener for cleaning the garden today |
-| April 7, 2021 | +1200 | 2793.39 | deposit by Yaron Kanter |
-| April 7, 2021 | +1200 | 3993.39 | deposit by Amit Adam |
+| April 7, 2021 | +1200 | 2793.39 | deposit by Mia+Yaron Kanter |
+| April 7, 2021 | +1200 | 3993.39 | deposit by Flonia+Amit Adam |
 | April 23, 2021 | +1000 | 4993.39 | deposit by Adam Yaron, deducting 200 shekel for electricity he paid |
 | April 28, 2021 | -141 | 4852.39 | electricity bill (4 months) |
 | May 2, 2021 | +1200 | 6052.39 | deposit by Maya+Oded Strauss|
 | May 3, 2021 | -1800 | 4252.39 | cleaning payment Jan-Apr 2021 |
-| May 5, 2021 | +1200 | 5452.39 | deposit by Arik Guez |
-| May 5, 2021 | +200 | 5652.39 | deposit  by Dalia Fridman, check 1 of 6 |
+| May 5, 2021 | +1200 | 5452.39 | deposit by Moran+Arik Guez |
+| May 5, 2021 | +200 | 5652.39 | deposit  by Dalia Friedman, check 1 of 6 |
 | May 6, 2021 | -320 | 5332.39 | pest-control/exterminator visit |
 
 
