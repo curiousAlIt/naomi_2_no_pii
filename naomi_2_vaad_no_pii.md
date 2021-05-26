@@ -29,9 +29,13 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | May 5, 2021 | +1200 | 5452.39 | deposit by Moran+Arik Guez |
 | May 5, 2021 | +200 | 5652.39 | deposit  by Dalia Friedman, check 1 of 6 |
 | May 6, 2021 | -320 | 5332.39 | pest-control/exterminator visit |
-
+| May 26, 2021 | -69.14 |  5263.25 | electricity bill 03-05/21|
 
 # Documents
+
+## Electricity Bill June 21
+
+![](elec_bill_June_21.png)
 
 ## Pest Control May 6th 2021
 
