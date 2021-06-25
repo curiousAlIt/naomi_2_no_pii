@@ -30,8 +30,10 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | May 5, 2021 | +200 | 5652.39 | deposit  by Dalia Friedman, check 1 of 6 |
 | May 6, 2021 | -320 | 5332.39 | pest-control/exterminator visit |
 | May 26, 2021 | -69.14 |  5263.25 | electricity bill 03-05/21|
-| May 28, 2021 | -250 | 5013.25 | Anton - cleaning today |
-
+| May 28, 2021 | -250 | 5013.25 | Anton - cleaning May 28 |
+| June 11, 2021 | -250 | 4763.25 | Anton - cleaning June 11 |
+| June 25, 2021 | -250 | 4513.25 | Anton - cleaning June 25 |
+| June 25, 2021 | +200 | 4713.25 | deposit by Dalia Friedman, check 2 of 6 |
 
 # Documents
 
