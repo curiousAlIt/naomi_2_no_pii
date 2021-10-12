@@ -44,8 +44,15 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | September 3, 2021 | -250 | 3805.29 | Anton - cleaning September 3 |
 | September 17, 2021 | -250 | 3550.29 | Anton - cleaning September 17 |
 | September 17, 2021 | +200 | 3750.29 | deposit by Dalia Friedman, check 5 of 6 |
+| October 1, 2021 | -250 |  3505.29 | Anton - cleaning October 1 |
+| October 12, 2021 | -52.93 | 3452.36 | electricity bill 8-9/2021 |
+| October 12, 2021 | +200 | 3652.36 | deposit by Dalia Friedman, check 6 of 6 |
 
 # Documents
+
+## Electricity Bill Nov 21
+
+![](elec-bill-11-2021.png)
 
 ## Electricity Bill August 21
 
