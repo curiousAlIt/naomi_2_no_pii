@@ -49,6 +49,7 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | October 12, 2021 | +200 | 3652.36 | deposit by Dalia Friedman, check 6 of 6 |
 | October 15, 2021 | -250 | 3402.36 | Anton - cleaning October 15 |
 | October 29, 2021 | -250 | 3152.36 | Anton - cleaning October 29, paid 1250 today |
+| November 2, 2021 | -1100 | 2052.36 | Gardener for cutting tree and cleaning garden |
 
 # Documents
 
