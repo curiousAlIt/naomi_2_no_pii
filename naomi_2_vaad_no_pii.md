@@ -54,6 +54,10 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 
 # Documents
 
+## Another electricity bill Nov 21
+
+![](elec-nov-2021.png)
+
 ## Electricity Bill Nov 21
 
 ![](elec-bill-11-2021.png)
