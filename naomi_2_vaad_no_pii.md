@@ -52,6 +52,7 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | November 2, 2021 | -1100 | 2052.36 | Gardener for cutting tree and cleaning garden |
 | November 12, 2021 | -250 | 1802.36 | Anton - cleaning Nov 12 |
 | November 26, 2021 | -250 | 1552.36 | Anton - cleaning Nov 26 |
+| December 10, 2021 | -250 | 1302.26 | Anton - cleaning Dec 10 |
 
 # Documents
 
