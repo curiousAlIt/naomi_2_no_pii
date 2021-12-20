@@ -4,12 +4,12 @@ We will manage the building finances using this page, which is publicly accessib
 
 # Notices
 
-### December 11th, 2021
+### December 20th, 2021
 
 Our balance at the end of this month will be around 1000 shekel.
 Our expenses for this year are all listed in the table below.
 
-We will now start collecting VAAD payments for 2023 - 1200 shekel from each family.
+We will now start collecting VAAD payments for 2023 - 1320 shekel from each family.
 
 
 ### May 6, 2021
