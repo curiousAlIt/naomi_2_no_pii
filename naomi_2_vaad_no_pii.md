@@ -62,6 +62,7 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | November 26, 2021 | -250 | 1552.36 | Anton - cleaning Nov 26 |
 | December 10, 2021 | -250 | 1302.26 | Anton - cleaning Dec 10 |
 | December 24, 2021 | -250 | 1052.26 | Anton - cleaning Dec 24, paid 1000 today |
+| January 7th, 2022 | -250 | 802.26 | Anton - cleaning Jan 7th |
 
 # Documents
 
