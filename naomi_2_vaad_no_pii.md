@@ -4,12 +4,20 @@ We will manage the building finances using this page, which is publicly accessib
 
 # Notices
 
+
+### January 22nd, 2022
+
+Thank you families Friedman, Maja+Oded Strauss, Guez, Adam Yaron and Flonia+Amit Adam for providing the 2022 building maintenance fees.
+Those who did not pay yet are invited to do so as soon as possible.
+
+Please note yesterday the cleaner did not come as he is in covid quarantine.
+
 ### December 20th, 2021
 
 Our balance at the end of this month will be around 1000 shekel.
 Our expenses for this year are all listed in the table below.
 
-We will now start collecting VAAD payments for 2023 - 1320 shekel from each family.
+We will now start collecting VAAD payments for 2022 - 1320 shekel from each family.
 
 
 ### May 6, 2021
@@ -62,7 +70,14 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | November 26, 2021 | -250 | 1552.36 | Anton - cleaning Nov 26 |
 | December 10, 2021 | -250 | 1302.26 | Anton - cleaning Dec 10 |
 | December 24, 2021 | -250 | 1052.26 | Anton - cleaning Dec 24, paid 1000 today |
+| January 3rd, 2022 |  0    | 1052.26 | 6 future checks for 220 shekel each by Dalia Friedman |
 | January 7th, 2022 | -250 | 802.26 | Anton - cleaning Jan 7th |
+| January 12th, 2022 | +1320 | 2122.26 | deposit by Flonia+Amit Adam |
+| January 12th, 2022 | +1320 | 3442.26 | deposit by Maja and Oded Strauss |
+| January 12th, 2022 | +1320 | 4762.26 | deposit by Moran+Arik Guez |
+| January 21st, 2022 | +1320 | 6082.26  | deposit by Adam Yaron |
+| January 21st, 2022 | 0 | 6082.26 | Anton - no cleaning today |
+
 
 # Documents
 
