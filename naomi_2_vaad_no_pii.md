@@ -84,11 +84,11 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 
 ## Electricity receipt - December 2021
 
-![](elec-receipt-Dec-2021.png)
+![](elec-receipt-Dec-21.png)
 
 ## Electricity bill - December 2021
 
-![](elec-Dec-2021.png)
+![](elec-Dec-21.png)
 
 ## Another electricity bill Nov 21
 
