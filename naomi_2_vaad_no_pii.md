@@ -77,9 +77,16 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | January 12th, 2022 | +1320 | 4762.26 | deposit by Moran+Arik Guez |
 | January 21st, 2022 | +1320 | 6082.26  | deposit by Adam Yaron |
 | January 21st, 2022 | 0 | 6082.26 | Anton - no cleaning today |
+| January 27th, 2022 | -91.35 | 5990.91 | electricity bill Dec 2021 |
 
 
 # Documents
+
+## Electricity bill and receipt - December 2021
+
+![](elec-receipt-Dec-2021.png)
+
+![](elec-Dec-2021.png)
 
 ## Another electricity bill Nov 21
 
