@@ -70,7 +70,7 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | November 26, 2021 | -250 | 1552.36 | Anton - cleaning Nov 26 |
 | December 10, 2021 | -250 | 1302.26 | Anton - cleaning Dec 10 |
 | December 24, 2021 | -250 | 1052.26 | Anton - cleaning Dec 24, paid 1000 today |
-| January 3rd, 2022 |  0    | 1052.26 | 6 future checks for 220 shekel each by Dalia Friedman |
+| January 3rd, 2022 |  0    | 1052.26 | 4 future checks for total 1320 shekel by Dalia Friedman |
 | January 7th, 2022 | -250 | 802.26 | Anton - cleaning Jan 7th |
 | January 12th, 2022 | +1320 | 2122.26 | deposit by Flonia+Amit Adam |
 | January 12th, 2022 | +1320 | 3442.26 | deposit by Maja and Oded Strauss |
@@ -78,6 +78,9 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | January 21st, 2022 | +1320 | 6082.26  | deposit by Adam Yaron |
 | January 21st, 2022 | 0 | 6082.26 | Anton - no cleaning today |
 | January 27th, 2022 | -91.35 | 5990.91 | electricity bill Dec 2021 |
+| February 4th, 2022 | -250 | 5740.91 | Anton - cleaning Feb 4 |
+| February 18th, 2022 | -250 | 5490.91 | Anton - cleaning Feb18, paid 750 today |
+| February 18th, 2022 | +400 | 5890.91 | Dalia - check 1 of 4 |
 
 
 # Documents
