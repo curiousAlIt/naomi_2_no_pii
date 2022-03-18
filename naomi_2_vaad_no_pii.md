@@ -81,6 +81,10 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | February 4th, 2022 | -250 | 5740.91 | Anton - cleaning Feb 4 |
 | February 18th, 2022 | -250 | 5490.91 | Anton - cleaning Feb18, paid 750 today |
 | February 18th, 2022 | +400 | 5890.91 | Dalia - check 1 of 4 |
+| March 4th, 2022 | -250 | 5640.91 | Anton - cleaning March 4 |
+| March 18th, 2022 | -250 | 5390.91 | Anton - cleaning March 18 |
+| March 18th, 2022 | +400 | 5790.91 | Dalia - check 2 of 4 |
+| March 18th, 2022 | +120 | 5910.91 | Dalia - check 3 of 4 |
 
 
 # Documents
