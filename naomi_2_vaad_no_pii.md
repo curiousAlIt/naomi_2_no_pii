@@ -1,3 +1,18 @@
+<div dir="rtl">
+
+# בדיקה של עברית
+
+## נראה שעובד
+
+### למה לא
+
+בעיות קשות
+
+
+![](elec-Dec-21.png)
+
+</div>
+
 # Naomi 2 Haifa Finances
 
 We will manage the building finances using this page, which is publicly accessible.
