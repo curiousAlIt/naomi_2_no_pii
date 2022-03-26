@@ -1,17 +1,3 @@
-<div dir="rtl">
-
-# בדיקה של עברית
-
-## נראה שעובד
-
-### למה לא
-
-בעיות קשות
-
-
-![](elec-Dec-21.png)
-
-</div>
 
 # Naomi 2 Haifa Finances
 
@@ -22,7 +8,7 @@ We will manage the building finances using this page, which is publicly accessib
 
 ### January 22nd, 2022
 
-Thank you families Friedman, Maja+Oded Strauss, Guez, Adam Yaron and Flonia+Amit Adam for providing the 2022 building maintenance fees.
+Thank you families Friedman, Maja+Oded Strauss, Guez, Adam Yaron, Maya+Yaron Kanter and Flonia+Amit Adam for providing the 2022 building maintenance fees.
 Those who did not pay yet are invited to do so as soon as possible.
 
 Please note yesterday the cleaner did not come as he is in covid quarantine.
@@ -100,6 +86,7 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | March 18th, 2022 | -250 | 5390.91 | Anton - cleaning March 18 |
 | March 18th, 2022 | +400 | 5790.91 | Dalia - check 2 of 4 |
 | March 18th, 2022 | +120 | 5910.91 | Dalia - check 3 of 4 |
+| March 26th, 2022 | +1320 | 7230.91 | Deposit by Maya and Yaron Kanter |
 
 
 # Documents
