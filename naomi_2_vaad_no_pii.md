@@ -87,6 +87,8 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | March 18th, 2022 | +400 | 5790.91 | Dalia - check 2 of 4 |
 | March 18th, 2022 | +120 | 5910.91 | Dalia - check 3 of 4 |
 | March 26th, 2022 | +1320 | 7230.91 | Deposit by Maya and Yaron Kanter |
+| April 1st, 2022 | -250   | 6980.91 | Anton - cleaning April 1st |
+| April 15th, 2022 | -250   | 6730.91 | Anton - cleaning April 15th |
 
 
 # Documents
