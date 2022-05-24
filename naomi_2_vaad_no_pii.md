@@ -89,9 +89,24 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | March 26th, 2022 | +1320 | 7230.91 | Deposit by Maya and Yaron Kanter |
 | April 1st, 2022 | -250   | 6980.91 | Anton - cleaning April 1st |
 | April 15th, 2022 | -250   | 6730.91 | Anton - cleaning April 15th |
+| April 25th, 2022 | -1200 | 5530.91 | Ramzi - gardening April 25th |
+| April 29th, 2022 | -250 | 5280.91 | Anton - cleaning April 29 |
+| May 13th, 2022 | -250 | 5030.91 | Anton, cleaning 13th May, paid 1250 for Mar-Apr today |
+| May 24th, 2022 | +400 | 5430.91 | Dalia - check 4 of 4 |
+| May 24th, 2022 | -92.41 | 5338.50 | paid electricity bill May 2022 |
+| May 27th, 2022 | -250 | 5088.50 | Anton - cleaning May 27th, paid 500 for May today |
 
 
 # Documents
+
+
+## Electricity receipt - May 2022
+
+![](elec-receipt-May-22.png)
+
+## Electricity bill - May 2022
+
+![](elec-May-22.png)
 
 ## Electricity receipt - December 2021
 
