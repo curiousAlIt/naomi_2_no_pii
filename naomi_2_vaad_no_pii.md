@@ -96,7 +96,7 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | May 24th, 2022 | -92.41 | 5338.50 | paid electricity bill May 2022 |
 | May 25th, 2022 | -250 | 5088.50 | Anton - cleaning May 25th before vacation (Wed) |
 | June 24th, 2022 | -250 | 4838.50 | Anton - cleaning June 24th, paid 750 today for May+June |
-
+| July 8th, 2022 | -250 | 4588.50 | Anton - cleaning July 8th |
 
 # Documents
 
