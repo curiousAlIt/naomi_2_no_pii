@@ -5,6 +5,10 @@ We will manage the building finances using this page, which is publicly accessib
 
 # Notices
 
+### January 2nd, 2023
+
+Hi all, please see below our expenses/financials for year 2022. After we will pay Anton this Friday (Jan 6th) we will have left 1158.33 shekel left for our building's maintenance.
+Please all pass along your VAAD payments for year 2023 - 1440 from each family (120 shekel per month).
 
 ### January 22nd, 2022
 
@@ -19,7 +23,6 @@ Our balance at the end of this month will be around 1000 shekel.
 Our expenses for this year are all listed in the table below.
 
 We will now start collecting VAAD payments for 2022 - 1320 shekel from each family.
-
 
 ### May 6, 2021
 
@@ -59,8 +62,8 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | August 11, 2021 | -57.96 | 4305.29 | electricity bill 6-7/2021 |
 | August 20, 2021 | -250 | 4055.29 | Anton - cleaning Aug 20, paid 1000 today  |
 | September 3, 2021 | -250 | 3805.29 | Anton - cleaning September 3 |
-| September 17, 2021 | -250 | 3550.29 | Anton - cleaning September 17 |
-| September 17, 2021 | +200 | 3750.29 | deposit by Dalia Friedman, check 5 of 6 |
+| September 17, 2021 | -250 | 3555.29 | Anton - cleaning September 17 |
+| September 17, 2021 | +200 | 3755.29 | deposit by Dalia Friedman, check 5 of 6 |
 | October 1, 2021 | -250 |  3505.29 | Anton - cleaning October 1 |
 | October 12, 2021 | -52.93 | 3452.36 | electricity bill 8-9/2021 |
 | October 12, 2021 | +200 | 3652.36 | deposit by Dalia Friedman, check 6 of 6 |
@@ -97,8 +100,46 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | May 25th, 2022 | -250 | 5088.50 | Anton - cleaning May 25th before vacation (Wed) |
 | June 24th, 2022 | -250 | 4838.50 | Anton - cleaning June 24th, paid 750 today for May+June |
 | July 8th, 2022 | -250 | 4588.50 | Anton - cleaning July 8th |
+| July 22nd, 2022 | -250 | 4338.50 | Anton - cleaning July 22nd |
+| August 5th, 2022 | -250 | 4088.50 | Anton - cleaning August 5th |
+| August 19th, 2022 | -250 | 3838.50 | Anton - cleaning August 19th |
+| August 23rd, 2022 | -50.20 | 3788.30 | paid electricity bill July 2022 |
+| September 2nd, 2022 | -250 | 3538.30 | Anton - cleaning Sep 2nd |
+| September 16th, 2022 | -250 | 3288.30 | Anton - cleaning Sep 16th |
+| September 16th, 2022 |   -  | 3288.30 | Paid Anton 1500 for July, August and Sep till + including Sep 16th |
+| September 30th, 2022 | -250 | 3038.30 | Anton - cleaning September 30th |
+| October 14th, 2022 | -250 | 2788.30 | Anton - cleaning October 14th |
+| October 20th, 2022 | -58.69 | 2729.61 | paid electricity bill Sep 2022 |
+| October 28th, 2022 | -250 | 2479.61 | Anton - cleaning October 28th |
+| November 11th, 2022 | -250 | 2229.61 | Anton - cleaning November 11th |
+| November 24th, 2022 | -71.28 | 2158.33 | paid electricity bill Nov 2022 |
+| November 25th, 2022 | -250 | 1908.33 | Anton - cleaning November 25th |
+| December 9th, 2022 | -250 | 1658.33 | Anton - cleaning December 9th |
+| December 23rd, 2022 | -250 | 1408.33 | Anton - cleaning December 23rd |
+| January 6th, 2023 | -250 | 1158.33 | Anton - cleaning January 6th |
+| January 6th, 2023 |   -  | 1158.33 | Paid Anton 2000 for Sep 30th, Oct, Nov, Dec and January 6th till + including January 6th |
+
 
 # Documents
+
+
+## Electricity receipt - Nov 2022
+
+![](elec-receipt-Nov-22.png)
+
+
+
+## Electricity receipt - Sep 2022
+
+![](elec-receipt-Sep-22.png)
+
+
+
+## Electricity receipt - July 2022
+
+![](elec-receipt-Jul-22.png)
+
+
 
 
 ## Electricity receipt - May 2022
