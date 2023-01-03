@@ -8,7 +8,7 @@ We will manage the building finances using this page, which is publicly accessib
 ### January 2nd, 2023
 
 Hi all, please see below our expenses/financials for year 2022. After we will pay Anton this Friday (Jan 6th) we will have left 1158.33 shekel left for our building's maintenance.
-Please all pass along your VAAD payments for year 2023 - 1440 from each family (120 shekel per month).
+Please all pass along your VAAD payments for year 2023 - 1320 from each family (110 shekel per month).
 
 ### January 22nd, 2022
 
