@@ -119,7 +119,7 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | January 3rd, 2023 | - | 1408.33 | 3 future checks for total 1320 shekel by Dalia Friedman |
 | January 6th, 2023 | - | 1408.33 | Paid Anton 1750 for Sep 30th, Oct, Nov, Dec - till + including Dec 23rd, not including Jan 6th |
 | January 6th, 2023 | -250 | 1158.33 | Anton - cleaning January 6th |
-
+| January 20th, 2023 | -250 | 908.33 | Anton - cleaning January 20th |
 
 # Documents
 
