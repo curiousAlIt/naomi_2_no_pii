@@ -120,8 +120,15 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | January 6th, 2023 | - | 1408.33 | Paid Anton 1750 for Sep 30th, Oct, Nov, Dec - till + including Dec 23rd, not including Jan 6th |
 | January 6th, 2023 | -250 | 1158.33 | Anton - cleaning January 6th |
 | January 20th, 2023 | -250 | 908.33 | Anton - cleaning January 20th |
+| January 27th, 2023 | -55.59 | 852.74 | paid electricity bill Jan 2023 |
+
 
 # Documents
+
+## Electricity receipt - Jan 2023
+
+![](elec-receipt-Jan-23.png)
+
 
 
 ## Electricity receipt - Nov 2022
