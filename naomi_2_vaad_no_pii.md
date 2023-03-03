@@ -5,6 +5,12 @@ We will manage the building finances using this page, which is publicly accessib
 
 # Notices
 
+
+### March 3rd, 2023
+
+So far the following families paid for year 2023: Dalia Friedman, Maja+Oded Strauss, Maya+Yaron Kanter and Flonia+Amit Adam. Those who did not pay yet please do so.
+
+
 ### January 2nd, 2023
 
 Hi all, please see below our expenses/financials for year 2022. After we will pay Anton this Friday (Jan 6th) we will have left 1158.33 shekel left for our building's maintenance.
@@ -121,6 +127,15 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | January 6th, 2023 | -250 | 1158.33 | Anton - cleaning January 6th |
 | January 20th, 2023 | -250 | 908.33 | Anton - cleaning January 20th |
 | January 27th, 2023 | -55.59 | 852.74 | paid electricity bill Jan 2023 |
+| February 3rd, 2023 | -250 | 602.74 | Anton - cleaning Feb 3rd |
+| February 17th, 2023 | -250 | 352.74 | Anton - cleaning Feb 17th |
+| March 3rd, 2023 | - | 352.74 | Paid Anton 1000 for Jan6,20, Feb3, 17. Not including March 3rd |
+| March 3rd, 2023 | +440 | 792.74 | Dalia Friedman 1st check |
+| March 3rd, 2023 | +1320 | 2112.74 | Maja+Oded Strauss payment 2023 |
+| March 3rd, 2023 | +1320 | 3432.74 | Maya+Yaron Kanter payment 2023 |
+| March 3rd, 2023 | +1320 | 4752.74 | Flonia+Amit Adam payment 2023 |
+
+
 
 
 # Documents
