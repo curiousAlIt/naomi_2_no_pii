@@ -136,7 +136,7 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | March 3rd, 2023 | +1320 | 4752.74 | Flonia+Amit Adam payment 2023 |
 | April 13th, 2023 | +220 | 4972.74 | Assaf Leber, payment for Jan+Feb 2023 |
 | April 13th, 2023 | -1200 | 3772.74 | Ramzi - gardening April 13th |
-| April 13th, 2023 } +440 | 4212.74 | Dalia Friedman 2nd check |
+| April 13th, 2023 | +440 | 4212.74 | Dalia Friedman 2nd check |
 
 
 
