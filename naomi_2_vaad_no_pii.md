@@ -5,7 +5,7 @@ We will manage the building finances using this page, which is publicly accessib
 
 # Notices
 
-# April 18th, 2023
+### April 18th, 2023
 
 Everybody has now paid the dues for this year. Thank you!
 
