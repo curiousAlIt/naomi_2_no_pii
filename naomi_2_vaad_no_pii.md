@@ -5,6 +5,10 @@ We will manage the building finances using this page, which is publicly accessib
 
 # Notices
 
+# April 18th, 2023
+
+Everybody has now paid the dues for this year. Thank you!
+
 
 ### March 3rd, 2023
 
@@ -134,9 +138,12 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | March 3rd, 2023 | +1320 | 2112.74 | Maja+Oded Strauss payment 2023 |
 | March 3rd, 2023 | +1320 | 3432.74 | Maya+Yaron Kanter payment 2023 |
 | March 3rd, 2023 | +1320 | 4752.74 | Flonia+Amit Adam payment 2023 |
-| April 13th, 2023 | +220 | 4972.74 | Assaf Leber, payment for Jan+Feb 2023 |
+| April 13th, 2023 | +220 | 4972.74 | Assaf Leber, payment for April+May 2023 |
 | April 13th, 2023 | -1200 | 3772.74 | Ramzi - gardening April 13th |
 | April 13th, 2023 | +440 | 4212.74 | Dalia Friedman 2nd check |
+| April 15th, 2023 | +1320 | 5532.74 | Adam Yaron payment for 2023 |
+| April 18th, 2023 | +330 | 5862.74 | Assaf Leber (Moran+Arik) - Jan, Feb, Mar 2023 |
+| April 18th, 2023 | -1250 | 4612.74 | Anton cleaning Mar 3rd/17th/31st April 14th/28th |
 
 
 
