@@ -144,7 +144,8 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | April 15th, 2023 | +1320 | 5532.74 | Adam Yaron payment for 2023 |
 | April 18th, 2023 | +330 | 5862.74 | Assaf Leber (Moran+Arik) - Jan, Feb, Mar 2023 |
 | April 18th, 2023 | -1250 | 4612.74 | Anton cleaning Mar 3rd/17th/31st April 14th/28th |
-
+| May 12th, 2023 | - | 4612.74 | paid Anton 1250 for Mar/Apr cleanings |
+| May 12th, 2023 | -250 | 4362.74 | Anton - cleaning May 12th |
 
 
 
