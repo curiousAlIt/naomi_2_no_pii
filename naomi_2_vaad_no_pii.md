@@ -146,10 +146,19 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | April 18th, 2023 | -1250 | 4612.74 | Anton cleaning Mar 3rd/17th/31st April 14th/28th |
 | May 12th, 2023 | - | 4612.74 | paid Anton 1250 for Mar/Apr cleanings |
 | May 12th, 2023 | -250 | 4362.74 | Anton - cleaning May 12th |
-
+| May 22nd, 2023 | -90.40 | 4272.34 | paid electricity bill May 2023|
+| May 25th, 2023 | -400 |   3872.34 | paid exterminator | 
 
 
 # Documents
+
+
+## Electricity receipt - May 2023
+
+![](elec-receipt-May-23.png)
+
+![](elec-bill-Mar-May-23.png)
+
 
 ## Electricity receipt - Jan 2023
 
