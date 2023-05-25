@@ -142,17 +142,23 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | April 13th, 2023 | -1200 | 3772.74 | Ramzi - gardening April 13th |
 | April 13th, 2023 | +440 | 4212.74 | Dalia Friedman 2nd check |
 | April 15th, 2023 | +1320 | 5532.74 | Adam Yaron payment for 2023 |
-| April 18th, 2023 | +330 | 5862.74 | Assaf Leber (Moran+Arik) - Jan, Feb, Mar 2023 |
+| April 18th, 2023 | +330 | 5862.74 | Assaf Leber (Moran+Arik) - Mar, Apr, May 2023 |
 | April 18th, 2023 | -1250 | 4612.74 | Anton cleaning Mar 3rd/17th/31st April 14th/28th |
 | May 12th, 2023 | - | 4612.74 | paid Anton 1250 for Mar/Apr cleanings |
 | May 12th, 2023 | -250 | 4362.74 | Anton - cleaning May 12th |
 | May 22nd, 2023 | -90.40 | 4272.34 | paid electricity bill May 2023|
 | May 25th, 2023 | -400 |   3872.34 | paid exterminator | 
-| May 26th, 2023 | - |   3872.34 | no cleaning - Anton on vacation | 
-| June 2nd, 2023 | - |   3872.34 | no cleaning - Anton on vacation | 
-| June 9th, 2023 | - |   3872.34 | no cleaning - Anton on vacation | 
+| May 25th, 2023 | +770 | 4642.34 | Assaf Leber - Jun to Dec 2023 |
+| May 26th, 2023 | - |   4642.34 | no cleaning - Anton on vacation | 
+| June 2nd, 2023 | - |   4642.34 | no cleaning - Anton on vacation | 
+| June 9th, 2023 | - |   4642.34 | no cleaning - Anton on vacation | 
 
 # Documents
+
+
+## Exterminator receipt - May 2023
+
+![](exterminator-May-23.jpg)
 
 
 ## Electricity receipt - May 2023
