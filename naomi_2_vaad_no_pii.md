@@ -151,7 +151,8 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | May 25th, 2023 | +770 | 4642.34 | Assaf Leber - Jun to Dec 2023 |
 | May 26th, 2023 | - |   4642.34 | no cleaning - Anton on vacation | 
 | June 2nd, 2023 | - |   4642.34 | no cleaning - Anton on vacation | 
-| June 9th, 2023 | - |   4642.34 | no cleaning - Anton on vacation | 
+| June 6th, 2023 | +440 | 5082.34 | Dalia Friedman 3rd and last check |
+| June 9th, 2023 | - |   5082.34 | no cleaning - Anton on vacation | 
 
 # Documents
 
