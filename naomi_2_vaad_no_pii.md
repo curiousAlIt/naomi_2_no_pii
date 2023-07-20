@@ -153,8 +153,22 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | June 2nd, 2023 | - |   4642.34 | no cleaning - Anton on vacation | 
 | June 6th, 2023 | +440 | 5082.34 | Dalia Friedman 3rd and last check |
 | June 9th, 2023 | - |   5082.34 | no cleaning - Anton on vacation | 
+| June 23rd, 2023 | -250 | 4832.34 | Anton - cleaning June 23rd |
+| July  7th, 2023 | -250 | 4582.34 | Anton - cleaning July 7th |
+| July  21st, 2023 | -250 | 4332.34 | Anton - cleaning July 21st |
+| July 21st, 2023  | - | 4332.34 | Paid Anton 1000 shekel for May 12, June 23, July 7, July 21 |
+| July 21st, 2023  | -50.25 | 4282.09 | Electricity bill July 2023 |
+
+
 
 # Documents
+
+
+## Electricity receipt - July 2023
+
+![](elec-receipt-Jul-23.png)
+
+![](elec-bill-May-Jul-23.png)
 
 
 ## Exterminator receipt - May 2023
