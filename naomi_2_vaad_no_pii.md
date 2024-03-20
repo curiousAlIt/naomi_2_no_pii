@@ -5,6 +5,13 @@ We will manage the building finances using this page, which is publicly accessib
 
 # Notices
 
+
+
+### March 20th, 2024
+
+Updated table below to reflect everybody's payments for 2024, and the expenses we had since January.
+
+
 ### April 18th, 2023
 
 Everybody has now paid the dues for this year. Thank you!
@@ -176,9 +183,29 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | January 12th, 2024  | -51.76 | 1119.19 | Electricity bill Jan 2024 |
 | January 19th, 2024   | -250  | 869.19 | Anton - cleaning Jan 19th, 2024 |
 | January 19th, 2024   | -     | 869.19 | Paid Anton 1500 shekel for Nov 10th, Nov 24th, Dec 8th, Dec 22nd, Jan 5th and Jan 19th |
+| February 14th, 2024 | +1320 | 2189.19 | Yaron+Maya Kanter - payment for 2024 |
+| February 14th, 2024 | +1320 | 3509.19 | Oded+Maja Strauss - payment for 2024 |
+| February 14th, 2024 | +1320 | 4829.19 | Adam Yaron - payment for 2024 |
+| February 14th, 2024 | +1320 | 6149.19 | Mor - Laver - payment for 2024 |
+| February 14th, 2024 | +1320 | 7469.19 | Flonia+Amit Adam - payment for 2024 |
+| February 14th, 2024 | - |  7469.19 | Dalia Friedman - 6 checks for 220 shekel each, for 2024  |
+| February 16th, 2024 | -250 | 7219.19 | Anton - cleaning Feb 16th |
+| March 1st, 2024 | -250 | 6969.19 | Anton - cleaning Mar 1st |
+| March 15th, 2024 | -250 | 6719.19 | Anton - cleaning Mar 15th |
+| March 20th, 2024 | -66.57 | 6652.62 | Electricity bill Mar 2024 |
+| March 20th, 2024 | +220 | 6872.62 | Dalia Friedman check 1 of 6  |
+| March 20th, 2024 | +220 | 7092.62 | Dalia Friedman check 2 of 6  |
+| March 20th, 2024 | +220 | 7312.62 | Dalia Friedman check 3 of 6  |
 
 
 # Documents
+
+## Electricity receipt - March 2024
+
+![](elec-receipt-Mar-24.png)
+
+![](elec-bill-Mar-24.png)
+
 
 
 ## Electricity receipt - January 2024
