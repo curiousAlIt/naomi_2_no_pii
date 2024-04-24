@@ -196,6 +196,11 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | March 20th, 2024 | +220 | 6872.62 | Dalia Friedman check 1 of 6  |
 | March 20th, 2024 | +220 | 7092.62 | Dalia Friedman check 2 of 6  |
 | March 20th, 2024 | +220 | 7312.62 | Dalia Friedman check 3 of 6  |
+| April 24th, 2024 | +220 | 7532.62 | Dalia Friedman check 4 of 6  |
+| March 29th, 2024 | -250 | 7282.62 | Anton - cleaning Mar 29th    |
+| April 12th, 2024 | -250 | 7032.62 | Anton - cleaning Apr 12th    |
+| April 26th, 2024 | -250 | 6782.62 | Anton - cleaning Apr 26th    |
+| April 26th, 2024   | -     | 6782.62 | Paid Anton 1500 shekel for Feb 16th, Mar 1st, Mar 15th, Mar 29th, Apr 12th and Apr 26th |
 
 
 # Documents
