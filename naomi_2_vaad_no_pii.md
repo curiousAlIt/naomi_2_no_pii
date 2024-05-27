@@ -201,9 +201,21 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | April 12th, 2024 | -250 | 7032.62 | Anton - cleaning Apr 12th    |
 | April 26th, 2024 | -250 | 6782.62 | Anton - cleaning Apr 26th    |
 | April 26th, 2024   | -     | 6782.62 | Paid Anton 1500 shekel for Feb 16th, Mar 1st, Mar 15th, Mar 29th, Apr 12th and Apr 26th |
+| May 10th, 2024 | -250 | 6532.62 | Anton - cleaning May 10th  |
+| May 24th, 2024 | -250 | 6282.62 | Anton - cleaning May 24th  |
+| May 24th, 2024 | -57.45 | 6225.17 | Electricity bill May 2024  |
+| May 24th, 2024 | +220 | 6445.17 | Dalia Friedman check 5 of 6  |
 
 
 # Documents
+
+
+## Electricity receipt - May 2024
+
+![](elec-receipt-May-24.png)
+
+![](elec-bill-May-24.png)
+
 
 ## Electricity receipt - March 2024
 
