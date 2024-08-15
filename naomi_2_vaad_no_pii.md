@@ -205,9 +205,23 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | May 24th, 2024 | -250 | 6282.62 | Anton - cleaning May 24th  |
 | May 24th, 2024 | -57.45 | 6225.17 | Electricity bill May 2024  |
 | May 24th, 2024 | +220 | 6445.17 | Dalia Friedman check 5 of 6  |
+| June 7th, 2024 | -250 | 6195.17  | Anton - cleaning Jun 7th  |
+| June 21st, 2024 | -250 | 5945.17 | Anton - cleaning Jun 21st  |
+| July 5th, 2024  | -250 | 5695.17 | Anton - cleaning Jul 5th  |
+| July 19th, 2024 | -250 | 5445.17 | Anton - cleaning Jul 19th  |
+| August 2nd, 2024  | -250 | 5195.17 | Anton - cleaning Aug 2nd   |
+| August 16th, 2024 | -250 | 4945.17 | Anton - cleaning Aug 16th  |
+| August 6th, 2024  | -56.11 | 4889.06 | Electricity bill July 2024 |
 
 
 # Documents
+
+
+## Electricity receipt - July 2024
+
+![](elec-receipt-Jul-24.png)
+
+![](elec-bill-Jul-24.png)
 
 
 ## Electricity receipt - May 2024
