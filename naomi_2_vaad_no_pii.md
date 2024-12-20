@@ -223,6 +223,9 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | November 8th, 2024 | -250 | 2124.51 | Anton - cleaning Nov 8th |
 | November 22nd, 2024 | -250 | 1874.51 | Anton - cleaning Nov 22nd |
 | December 1st, 2024 | -61.38 | 1813.13 | Electricity bill Nov 2024 |
+| December 6th, 2024 | -250   | 1563.13 | Anton - cleaning Dec 6th |
+| December 20th, 2024 | -250   | 1313.13 | Anton - cleaning Dec 20th |
+| December 20th, 2024 |    -    | 1313.13 | Paid Anton 1500 shekel for Oct 11, Oct 25, Nov 8, Nov 22, Dec 6, Dec 20 |
 
 
 # Documents
