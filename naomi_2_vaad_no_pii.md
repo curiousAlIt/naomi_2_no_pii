@@ -6,6 +6,10 @@ We will manage the building finances using this page, which is publicly accessib
 # Notices
 
 
+### March 13th, 2025
+
+As of today all apartments have paid for 2025 except Strauss family.
+
 
 ### March 20th, 2024
 
@@ -226,9 +230,30 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | December 6th, 2024 | -250   | 1563.13 | Anton - cleaning Dec 6th |
 | December 20th, 2024 | -250   | 1313.13 | Anton - cleaning Dec 20th |
 | December 20th, 2024 |    -    | 1313.13 | Paid Anton 1500 shekel for Oct 11, Oct 25, Nov 8, Nov 22, Dec 6, Dec 20 |
+| January 3rd, 2025   | -250    | 1063.13 | Anton - cleaning Jan 3rd |
+| January 17th, 2025   | -250    | 813.13 | Anton - cleaning Jan 17th |
+| January 31st, 2025   | -250    | 563.13 | Anton - cleaning Jan 31st |
+| February 14th, 2025  | -250    | 313.13 | Anton - cleaning Feb 14th |
+| February 28th, 2025  | -250    | 63.13 | Anton - cleaning Feb 28th |
+| March 13th, 2025     | +1320   | 1383.13 | Payment 2025 - Adam Family |
+| March 13th, 2025     | +1320   | 2703.13 | Payment 2025 - Yaron Family |
+| March 13th, 2025     | +1320   | 4023.13 | Payment 2025 - Kanter Family |
+| March 13th, 2025     | +1320   | 5343.13 | Payment 2025 - Friedman Family |
+| March 13th, 2025     | +1320   | 6663.13 | Payment 2025 - Perez Family |
+| March 13th, 2025     | -99.76  | 6563.37 | Electricity bill Mar 25 |
+| March 14th, 2025     | -250    | 6313.37 | Anton - cleaning Mar 14th |
+| March 28th, 2025     | -250    | 6063.37 | Anton - cleaning Mar 28th |
+| March 28th, 2025     |   -     | 6063.37 | Paid Anton 1750 shekel for Jan 3, Jan 17, Jan 31, Feb 14, Feb 28, Mar 14, Mar 28 |
 
 
 # Documents
+
+
+## Electricity receipt - November 2024
+
+![](elec-receipt-Mar-25.png)
+
+![](elec-bill-Mar-25.png)
 
 
 
