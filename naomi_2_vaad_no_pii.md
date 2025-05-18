@@ -252,8 +252,8 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | April 11th, 2025     | -250    | 5813.37 | Anton - cleaning Apr 11th |
 | April 25th, 2025     | -250    | 5563.37 | Anton - cleaning Apr 25th |
 | May 9th, 2025        | -250    | 5313.37 | Anton - cleaning May 9th |
-| May 18th, 2025       | -63.63  | 5249.74 | Electricity bill May 25 |
-| May 18th, 2025       | +1320   | 6569.74 | Payment 2025 - Strauss Family |
+| May 18th, 2025       | -63.69  | 5249.68 | Electricity bill May 25 |
+| May 18th, 2025       | +1320   | 6569.68 | Payment 2025 - Strauss Family |
 
 
 # Documents
