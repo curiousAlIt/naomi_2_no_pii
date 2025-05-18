@@ -6,6 +6,11 @@ We will manage the building finances using this page, which is publicly accessib
 # Notices
 
 
+### May 18th, 2025
+
+Everybody has now paid for 2025.
+
+
 ### March 13th, 2025
 
 As of today all apartments have paid for 2025 except Strauss family.
@@ -244,17 +249,29 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | March 14th, 2025     | -250    | 6313.37 | Anton - cleaning Mar 14th |
 | March 28th, 2025     | -250    | 6063.37 | Anton - cleaning Mar 28th |
 | March 28th, 2025     |   -     | 6063.37 | Paid Anton 1750 shekel for Jan 3, Jan 17, Jan 31, Feb 14, Feb 28, Mar 14, Mar 28 |
+| April 11th, 2025     | -250    | 5813.37 | Anton - cleaning Apr 11th |
+| April 25th, 2025     | -250    | 5563.37 | Anton - cleaning Apr 25th |
+| May 9th, 2025        | -250    | 5313.37 | Anton - cleaning May 9th |
+| May 18th, 2025       | -63.63  | 5249.74 | Electricity bill May 25 |
+| May 18th, 2025       | +1320   | 6569.74 | Payment 2025 - Strauss Family |
 
 
 # Documents
 
 
-## Electricity receipt - November 2024
+
+## Electricity receipt - May 2025
+
+![](elec-receipt-May-25.png)
+
+![](elec-bill-May-25.png)
+
+
+## Electricity receipt - March 2025
 
 ![](elec-receipt-Mar-25.png)
 
 ![](elec-bill-Mar-25.png)
-
 
 
 ## Electricity receipt - November 2024
