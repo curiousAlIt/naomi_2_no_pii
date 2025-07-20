@@ -260,11 +260,17 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | July 4th, 2025       |         | 6069.68 | Paid Anton 1250 shekel for Apr 11, Apr 25, May 9, Jun 6, Jun 20 |
 | July 4th, 2025       | -250    | 5819.68 | Anton - cleaning Jul 4th |
 | July 13th, 2025      | -1298   | 4521.68 | plumber |
+| July 18th, 2025       | -250    | 4271.68 | Anton - cleaning Jul 18th |
+| July 20th, 2025       | -500    | 3771.68 | Exterminator - July 20th |
 
 
 
 
 # Documents
+
+## Exterminator work on July 20th
+
+![](exterminator-Jul-25.jpg)
 
 ## Plumber work on July 10th
 
