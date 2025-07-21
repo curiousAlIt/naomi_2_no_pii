@@ -262,11 +262,20 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | July 13th, 2025      | -1298   | 4521.68 | plumber |
 | July 18th, 2025       | -250    | 4271.68 | Anton - cleaning Jul 18th |
 | July 20th, 2025       | -500    | 3771.68 | Exterminator - July 20th |
-
+| July 21st, 2025       | -70.73  | 3700.95 | Electricity bill Jul 25 |
 
 
 
 # Documents
+
+
+## Electricity receipt - Jul 2025
+
+![](elec-receipt-Jul-25.png)
+
+![](elec-bill-Jul-25.png)
+
+
 
 ## Exterminator work on July 20th
 
