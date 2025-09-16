@@ -263,10 +263,22 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | July 18th, 2025       | -250    | 4271.68 | Anton - cleaning Jul 18th |
 | July 20th, 2025       | -500    | 3771.68 | Exterminator - July 20th |
 | July 21st, 2025       | -70.73  | 3700.95 | Electricity bill Jul 25 |
-
-
+| August 1st, 2025      | -250    | 3450.95 | Anton - cleaning Aug 1st |
+| August 15th, 2025     | -250    | 3200.95 | Anton - cleaning Aug 15th |
+| August 29th, 2025     | -250    | 2950.95 | Anton - cleaning Aug 29th |
+| September 12th, 2025  | -250    | 2700.95 | Anton - cleaning Sep 12th |
+| September 16th, 2025  | -59.55  | 2641.40 | Electricity bill Sep 25 |
+| September 26th, 2025  | -250    | 2391.40 | Anton - cleaning Sep 26th |
+| September 26th, 2025  |  -      | 2391.40 | Paid Anton 1750 shekel for Jul 4, Jul 18, Aug 1, Aug 15, Aug 29, Sep 12, Sep 26 |
 
 # Documents
+
+
+## Electricity receipt - Sep 2025
+
+![](elec-receipt-Sep-25.png)
+
+![](elec-bill-Sep-25.png)
 
 
 ## Electricity receipt - Jul 2025
