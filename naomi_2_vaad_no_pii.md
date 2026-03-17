@@ -282,9 +282,24 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | January 12th, 2026    | -61.64   | 524.34 | Electricity bill Jan 26 |
 | January 16th, 2026    | -250     | 274.34 | Anton - cleaning Jan 16th |
 | January 30th, 2026    | -250     | 24.34  | Anton - cleaning Jan 30th |
-
+| March 17th, 2026      | +1420    | 1444.34  | Payment 2026 - Adam Family |
+| March 17th, 2026      | +1420    | 2864.34  | Payment 2026 - Kanter Family |
+| March 17th, 2026      | +820    |  3684.34  | Payment 2026 - Strauss Family - 600 was paid directly to plumber end of 2025|
+| March 17th, 2026      | +1420    | 5104.34  | Payment 2026 - Perez Family |
+| February 13th, 2026   | -250     | 4854.34  | Anton - cleaning Feb 13th |
+| February 27th, 2026   | -250     | 4604.34  | Anton - cleaning Feb 27th |
+| March 13th, 2026      | -250     | 4354.34  | Anton - cleaning Mar 13th |
+| March 27th, 2026      | -250     | 4104.34  | Anton - cleaning Mar 27th |
+| March 27th, 2025      | -        | 4104.34  | Paid Anton 1750 shekel for Jan 2, Jan 16, Jan 30, Feb 13, Feb 27, Mar 13, Mar 27|
+| March 17th, 2025      | -77.02   | 4027.32  | Electricity bill Mar 26 |
 
 # Documents
+
+## Electricity receipt - Jan 2026
+
+![](elec-receipt-Mar-26.png)
+
+![](elec-bill-Mar-26.png)
 
 
 ## Electricity receipt - Jan 2026
