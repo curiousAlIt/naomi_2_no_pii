@@ -5,6 +5,9 @@ We will manage the building finances using this page, which is publicly accessib
 
 # Notices
 
+### April 21st, 2026
+
+Everybody has now paid for 2026.
 
 ### May 18th, 2025
 
@@ -290,12 +293,16 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | February 27th, 2026   | -250     | 4604.34  | Anton - cleaning Feb 27th |
 | March 13th, 2026      | -250     | 4354.34  | Anton - cleaning Mar 13th |
 | March 27th, 2026      | -250     | 4104.34  | Anton - cleaning Mar 27th |
-| March 27th, 2025      | -        | 4104.34  | Paid Anton 1750 shekel for Jan 2, Jan 16, Jan 30, Feb 13, Feb 27, Mar 13, Mar 27|
 | March 17th, 2025      | -77.02   | 4027.32  | Electricity bill Mar 26 |
+| April 10th, 2026      | -250     | 3777.32  | Anton - cleaning April 10th |
+| April 18th, 2026      | +1420    | 5197.32  | Payment 2026 - Yaron family |
+| April 18th, 2026      | +1420    | 6617.32  | Payment 2026 - Friedman family |
+| April 24th, 2026      | -250     | 6367.32  | Anton - cleaning April 24th |
+| April 24th, 2026      | -        | 6367.32  | Paid Anton 2250 shekel for Jan 2, Jan 16, Jan 30, Feb 13, Feb 27, Mar 13, Mar 27, Apr 10, Apr 24 |
 
 # Documents
 
-## Electricity receipt - Jan 2026
+## Electricity receipt - Mar 2026
 
 ![](elec-receipt-Mar-26.png)
 
