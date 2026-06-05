@@ -299,6 +299,12 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | April 18th, 2026      | +1420    | 6617.32  | Payment 2026 - Friedman family |
 | April 24th, 2026      | -250     | 6367.32  | Anton - cleaning April 24th |
 | April 24th, 2026      | -        | 6367.32  | Paid Anton 2250 shekel for Jan 2, Jan 16, Jan 30, Feb 13, Feb 27, Mar 13, Mar 27, Apr 10, Apr 24 |
+| May 8th, 2026         | -250     | 6117.32  | Anton - cleaning May 8th |
+| May 22nd, 2026        | -        | 6117.32  | no cleaning was done     |
+| June 5th, 2026        | -250     | 5867.32  | Anton - cleaning June 8th |
+
+
+
 
 # Documents
 
