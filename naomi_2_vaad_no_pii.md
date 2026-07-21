@@ -303,9 +303,21 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | May 22nd, 2026        | -        | 6117.32  | no cleaning was done     |
 | June 5th, 2026        | -250     | 5867.32  | Anton - cleaning June 5th |
 | June 9th, 2025        | -71.12   | 5796.20  | Electricity bill May 26 |
+| June 19th, 2026       | -250     | 5546.20  | Anton - cleaning June 19th |
+| July 3rd, 2026        | -250     | 5296.20  | Anton - cleaning July 3rd  |
+| July 17th, 2026       | -250     | 5046.20  | Anton - cleaning July 17th (done on 16th)|
+| July 21st, 2025       | -81.97   | 4964.23  | Electricity bill July 26 |
+
 
 
 # Documents
+
+## Electricity receipt - July 2026
+
+![](elec-receipt-Jul-26.png)
+
+![](elec-bill-Jul-26.png)
+
 
 ## Electricity receipt - May 2026
 
