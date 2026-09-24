@@ -307,10 +307,26 @@ Starting Balance: 2293.39 ILS transferred from Adam Yaron on April 2, 2021.
 | July 3rd, 2026        | -250     | 5296.20  | Anton - cleaning July 3rd  |
 | July 17th, 2026       | -250     | 5046.20  | Anton - cleaning July 17th (done on 16th)|
 | July 21st, 2025       | -81.97   | 4964.23  | Electricity bill July 26 |
+| July 31st, 2026       | -250     | 4714.23  | Anton- cleaning July 31   |
+| August 14th, 2026     | -250     | 4464.23  | Anton- cleaning August 14 |
+| August 28th, 2026     | -250     | 4214.23  | Anton- cleaning August 28 |
+| August 30th, 2026     | -1800    | 2414.23  | Ramzi - gardening August 30th   |
+| September 11th, 2026  | -250     | 2164.23  | Anton- cleaning Sep 11    |
+| September 25th, 2026  | -250     | 1914.23  | Anton- cleaning Sep 25    |
+| September 24th, 2026  | -70.90   | 1843.33  | Electricity bill Sep 26   | 
+| September 25th, 2026  | -        | 1843.33  | Paid Anton 2500 shekel for May 8, Jun 5, Jun 19, Jul 3, Jul 16, Jul 31, Aug 14, Aug 28, Sep 11, Sep 25 |
 
 
 
 # Documents
+
+
+## Electricity receipt - September 2026
+
+![](elec-receipt-Sep-26.png)
+
+![](elec-bill-Sep-26.png)
+
 
 ## Electricity receipt - July 2026
 
